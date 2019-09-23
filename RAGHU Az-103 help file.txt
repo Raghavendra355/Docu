@@ -1,0 +1,16 @@
+get-module
+
+get-module -listavailable
+
+
+install-module -name Az -AllowClobber 
+
+$PSVersionTable
+
+
+az --version
+
+
+Azure pass : 
+
+QO5Z5ZFBWGHHMLXR0G
