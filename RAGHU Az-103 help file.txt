@@ -14,3 +14,49 @@ az --version
 Azure pass : 
 
 QO5Z5ZFBWGHHMLXR0G
+
+
+Book of this cource :
+
+GCNQ-HVDU-QSBT-LNYR
+
+Application for storage explorer ::
+https://azure.microsoft.com/en-in/features/storage-explorer/
+
+
+
+
+ns1-07.azure-dns.com.
+ns2-07.azure-dns.net.
+ns3-07.azure-dns.org.
+ns4-07.azure-dns.info.
+
+
+C:\Users\ko>nslookup mylabvmpip.raghav.com ns1-07.azure-dns.com.
+Server:  UnKnown
+Address:  40.90.4.7
+
+Name:    mylabvmpip.raghav.com
+Address:  106.51.69.67
+
+C:\Users\ko>nslookup myazurepip.raghav.com ns2-07.azure-dns.net.
+Server:  UnKnown
+Address:  64.4.48.7
+
+Name:    myazurepip.raghav.com
+Address:  168.62.41.138
+
+Admin Username: Student
+
+Admin Password: Pa55w.rd1234
+
+sync@raghavendrar355outlookcom.onmicrosoft.com 
+Muxo8351
+
+Shiv
+Shiva
+Yado0976
+
+abc
+Vuna8615
+
